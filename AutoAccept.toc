@@ -1,0 +1,14 @@
+## Interface: 80000
+## Title: AutoAccept
+## Author: Logon
+## Notes: An addon to Automatically accept and complete quests.
+## Version: 1
+## RequiredDeps:
+## OptionalDeps: Ace3, LibDataBroker-1.1, LibCompress
+## SavedVariables: AutoAcceptDB
+## SavedVariablesPerCharacter: AutoAcceptConfigCharacter
+
+embeds.xml
+
+#Main
+AutoAccept.lua
